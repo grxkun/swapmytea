@@ -1,5 +1,4 @@
 # swapmytea
-Certainly! Below is a template for a `README.md` file for your npm package that combines five npm packages to create a DApp for token swapping on an EVM-based blockchain:
 
 ```markdown
 # TokenSwap DApp
